@@ -13,4 +13,4 @@ To avoid Git conflicts, please only edit files inside your assigned folders:
    `python -m venv venv`
    `source venv/Scripts/activate`  (Windows Git Bash)
 3. Install dependencies:
-   `pip install -r requirements.txt
+   `pip install -r requirements.txt`
