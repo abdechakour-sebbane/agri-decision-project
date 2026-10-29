@@ -1,0 +1,30 @@
+{
+  "crop_type": "Potato",
+  "baseline_yield_tons_per_ha": 25.4,
+  "zones": [
+    {
+      "zone_id": "Z_0_0",
+      "row": 0,
+      "col": 0,
+      "disease_class": "Potato___Early_blight",
+      "cnn_confidence": 0.94,
+      "severity_pct": 18.5
+    },
+    {
+      "zone_id": "Z_0_1",
+      "row": 0,
+      "col": 1,
+      "disease_class": "Potato___healthy",
+      "cnn_confidence": 0.99,
+      "severity_pct": 0.0
+    },
+    {
+      "zone_id": "Z_0_2",
+      "row": 0,
+      "col": 2,
+      "disease_class": "Potato___Late_blight",
+      "cnn_confidence": 0.89,
+      "severity_pct": 45.2
+    }
+  ]
+}
